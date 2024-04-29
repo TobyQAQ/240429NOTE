@@ -55,6 +55,7 @@
             this.btnSave.TabIndex = 1;
             this.btnSave.Text = "儲存檔案";
             this.btnSave.UseVisualStyleBackColor = true;
+            this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
             // 
             // richTextBox1
             // 
