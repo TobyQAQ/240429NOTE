@@ -1,0 +1,10 @@
+D:\VS\240429NOTE\bin\Debug\240429NOTE.exe.config
+D:\VS\240429NOTE\bin\Debug\240429NOTE.exe
+D:\VS\240429NOTE\bin\Debug\240429NOTE.pdb
+D:\VS\240429NOTE\obj\Debug\240429NOTE.csproj.AssemblyReference.cache
+D:\VS\240429NOTE\obj\Debug\_240429NOTE.Form1.resources
+D:\VS\240429NOTE\obj\Debug\_240429NOTE.Properties.Resources.resources
+D:\VS\240429NOTE\obj\Debug\240429NOTE.csproj.GenerateResource.cache
+D:\VS\240429NOTE\obj\Debug\240429NOTE.csproj.CoreCompileInputs.cache
+D:\VS\240429NOTE\obj\Debug\240429NOTE.exe
+D:\VS\240429NOTE\obj\Debug\240429NOTE.pdb
